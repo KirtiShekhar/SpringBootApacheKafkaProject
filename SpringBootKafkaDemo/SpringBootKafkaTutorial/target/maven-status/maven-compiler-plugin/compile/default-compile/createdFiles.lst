@@ -1,0 +1,9 @@
+com\advance\springboot\kafka\tutorial\controller\KafkaTutorialController.class
+com\advance\springboot\kafka\tutorial\SpringBootKafkaTutorialApplication.class
+com\advance\springboot\kafka\tutorial\kafkaConsumer\JsonGamesTopicConsumer.class
+com\advance\springboot\kafka\tutorial\kafkaProducer\KafkaTutorialProducer.class
+com\advance\springboot\kafka\tutorial\kafkaProducer\JsonGamesTopicProducer.class
+com\advance\springboot\kafka\tutorial\configuration\KafkaTopicConfiguration.class
+com\advance\springboot\kafka\tutorial\controller\KafkaTutorialControllerController.class
+com\advance\springboot\kafka\tutorial\kafkaConsumer\KafkaTutorialConsumer.class
+com\advance\springboot\kafka\tutorial\payload\GamesTopic.class

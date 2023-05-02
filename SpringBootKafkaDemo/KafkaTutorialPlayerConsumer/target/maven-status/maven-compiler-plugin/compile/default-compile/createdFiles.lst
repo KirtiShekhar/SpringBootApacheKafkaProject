@@ -1,0 +1,4 @@
+com\kafka\tutorial\player\consumer\modaldeserializer\PlayerDeserializer.class
+com\kafka\tutorial\player\consumer\modal\Player.class
+com\kafka\tutorial\player\consumer\KafkaPlayerConsumerApplication.class
+com\kafka\tutorial\player\consumer\topicconsumer\PlayerConsumer.class

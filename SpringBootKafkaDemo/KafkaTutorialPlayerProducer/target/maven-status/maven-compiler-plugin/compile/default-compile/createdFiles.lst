@@ -1,0 +1,5 @@
+com\kafka\tutorial\player\producer\KafkaPlayerProducerApplication.class
+com\kafka\tutorial\player\producer\topicproducer\PlayerProducer.class
+com\kafka\tutorial\player\producer\model\Player.class
+com\kafka\tutorial\player\producer\topicproducercallback\PlayerCallback.class
+com\kafka\tutorial\player\producer\modalserializer\PlayerSerializer.class
